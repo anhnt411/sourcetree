@@ -54,6 +54,6 @@ namespace WebApplication1
             app.UseCookiePolicy();
 
             app.UseMvc();
-        }
+        }//aa
     }
 }
